@@ -12,7 +12,7 @@ Im a Back end developer and System engineer
 Internet access control
 - virtualization (KVM, Proxmox, VMWare ESXi)
 - Router (Cisco, Mikrotik, Aruba)
- Code examples (git)
- Experience comnet.uz, play.tvcom.uz, tvcom.uz, medgorod.uz, durablestone.uz, durablebeton.uz .....
+Code examples (git)
+Experience comnet.uz, play.tvcom.uz, tvcom.uz, medgorod.uz, durablestone.uz, durablebeton.uz .....
 Itmo University
 English (Intermediate)

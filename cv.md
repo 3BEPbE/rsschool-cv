@@ -15,4 +15,4 @@ Internet access control
  Code examples (git)
  Experience comnet.uz, play.tvcom.uz, tvcom.uz, medgorod.uz, durablestone.uz, durablebeton.uz .....
 Itmo University
-8. English (Intermediate)
+English (Intermediate)
